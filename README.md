@@ -24,7 +24,7 @@ Despues del src se pone la ruta del raw, opcion del diagrama code in guthub
 See [docs/class-diagram.puml](docs/class-diagram.puml) for the source code of the diagram.
 
 ## User Stories
-in [docs/user-stories.md](docs/user-stories.md) you can find the user stories that describe the funcionality of the application.
+in [ACME.OOP/docs/user-stories.md](docs/user-stories.md) you can find the user stories that describe the funcionality of the application.
 
 # Usage
 Run the application using the following command:
